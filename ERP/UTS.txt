@@ -1,0 +1,6 @@
+Persiapan UTS
+
+Buat Video Installasi Oddo - Tutorial Pemakaian Oddo
+
+Quatitation Order -> Sales Order -> Invoice
+                                 -> Delivery Order
