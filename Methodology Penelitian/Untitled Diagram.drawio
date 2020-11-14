@@ -1,0 +1,106 @@
+<mxfile host="app.diagrams.net" modified="2020-11-12T14:43:55.403Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="V8-VUTywuQFmdA2E-w1I" version="13.9.7" type="github">
+  <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
+    <mxGraphModel dx="1955" dy="1115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="77e6c97f196da883-1" value="Bagan Alir Methodology Penelitian" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
+          <mxGeometry x="70" y="70" width="860" height="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-2" value="Tahap" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry y="20" width="160" height="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="eX0ZXQVr-SxHWwyLkpYd-2" value="1&lt;br&gt;Tahap Persiapan Penelitian" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="20" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eX0ZXQVr-SxHWwyLkpYd-11" value="2&lt;br&gt;Tahap Pengumpulan Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="20" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eX0ZXQVr-SxHWwyLkpYd-17" value="3&lt;br&gt;Tahap Pengolahan dan Analisis Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="20" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eX0ZXQVr-SxHWwyLkpYd-28" value="4&lt;br&gt;Tahap Analisis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="20" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-3" value="Kegiatan" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry x="160" y="20" width="260" height="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="eX0ZXQVr-SxHWwyLkpYd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-3" source="eX0ZXQVr-SxHWwyLkpYd-3" target="eX0ZXQVr-SxHWwyLkpYd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eX0ZXQVr-SxHWwyLkpYd-3" value="Mulai" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="77e6c97f196da883-3">
+          <mxGeometry x="80" y="30" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eX0ZXQVr-SxHWwyLkpYd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-3" source="eX0ZXQVr-SxHWwyLkpYd-4" target="eX0ZXQVr-SxHWwyLkpYd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eX0ZXQVr-SxHWwyLkpYd-4" value="Identifikasi topik penelitian" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-3">
+          <mxGeometry x="60" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eX0ZXQVr-SxHWwyLkpYd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-3" source="eX0ZXQVr-SxHWwyLkpYd-6" target="eX0ZXQVr-SxHWwyLkpYd-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eX0ZXQVr-SxHWwyLkpYd-6" value="Perumusan Masalah" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-3">
+          <mxGeometry x="60" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eX0ZXQVr-SxHWwyLkpYd-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-3" source="eX0ZXQVr-SxHWwyLkpYd-12" target="eX0ZXQVr-SxHWwyLkpYd-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eX0ZXQVr-SxHWwyLkpYd-12" value="Pengumpulan data dilakukan menggunakan kuesioner yang disebar secara online" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-3">
+          <mxGeometry x="40" y="280" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eX0ZXQVr-SxHWwyLkpYd-16" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="77e6c97f196da883-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-160" y="400" as="sourcePoint" />
+            <mxPoint x="540" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eX0ZXQVr-SxHWwyLkpYd-18" value="Analisis Data dilakukan menggunakan metode Partial Least Square Sequence Equation Modeling (PLSSEM)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-3">
+          <mxGeometry x="40" y="700" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eX0ZXQVr-SxHWwyLkpYd-22" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="77e6c97f196da883-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-160" y="620" as="sourcePoint" />
+            <mxPoint x="540" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eX0ZXQVr-SxHWwyLkpYd-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-3" source="eX0ZXQVr-SxHWwyLkpYd-33" target="eX0ZXQVr-SxHWwyLkpYd-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eX0ZXQVr-SxHWwyLkpYd-33" value="Uji Data Kuesioner:&lt;br&gt;1. Uji Validitas&lt;br&gt;2. Uji Reabilitas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-3">
+          <mxGeometry x="40" y="480" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-4" value="Hasil" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry x="420" y="20" width="280" height="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="eX0ZXQVr-SxHWwyLkpYd-8" value="- Pengguna mengeluhkan performa aplikasi UC Browser yang kian menurun&lt;br&gt;- Kesan pengguna UC Browser memburuk yang berdampak pada penurunan penggunaan aplikasi UC Browser" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="77e6c97f196da883-4">
+          <mxGeometry x="25" y="30" width="230" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="eX0ZXQVr-SxHWwyLkpYd-14" value="Lembar Kuesioner" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="77e6c97f196da883-4">
+          <mxGeometry x="80" y="275" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eX0ZXQVr-SxHWwyLkpYd-19" value="Data Kuesioner sejumlah122, setelah dianalisis menggunakan PLSSEM menghasilkan data sejumlah 101 data" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="77e6c97f196da883-4">
+          <mxGeometry x="50" y="460" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-5" value="Waktu" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry x="700" y="20" width="160" height="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="eX0ZXQVr-SxHWwyLkpYd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="eX0ZXQVr-SxHWwyLkpYd-6" target="eX0ZXQVr-SxHWwyLkpYd-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eX0ZXQVr-SxHWwyLkpYd-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="eX0ZXQVr-SxHWwyLkpYd-12" target="eX0ZXQVr-SxHWwyLkpYd-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eX0ZXQVr-SxHWwyLkpYd-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="eX0ZXQVr-SxHWwyLkpYd-33" target="eX0ZXQVr-SxHWwyLkpYd-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eX0ZXQVr-SxHWwyLkpYd-10" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="300" as="sourcePoint" />
+            <mxPoint x="770" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
