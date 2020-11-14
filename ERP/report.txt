@@ -1,0 +1,28 @@
+Update!!!
+
+- details of video 
+{{rc_url}}/api/v2/home/13/detail-videos/46?length=10&page=1 | *DONE*
+
+- search video 
+{{rc_url}}/api/v2/search/videos?q=do&page=1&length=10 | *Done*
+
+- my videos 
+{{rc_url}}/api/v2/user/my-videos?page=1&length=10 | *Done*
+
+- user videos 
+{{rc_url}}/api/v2/user/user-videos?page=1&length=10&user_id=8959000 | *Done*
+
+- play 
+{{rc_url}}/api/v2/play?video_id=867 | *Done*
+
+- all competition videos
+{{rc_url}}/api/v2/competition/24/videos?page=1&length=30 | *Done*
+
+personalized-videos-data
+{{rc_url}}/api/v1/user/personalized-video-data :
+ - Status Like > *Done*
+ - Status Follow > *Done*
+
+kalok mau liat documentasinya:
+
+link: https://app.swaggerhub.com/apis/dikako/api-documentation_for_ugc_vote/0.0.1#/user/get-personalized-video-data
