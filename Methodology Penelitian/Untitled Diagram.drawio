@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T15:07:40.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="ZEzw9KZSz48XkiZg3DCG" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-22T15:14:29.247Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="QT1Wh28LCDMe1r94XU54" version="13.9.9" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1117" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="77e6c97f196da883-1" value="Bagan Alir Methodology Penelitian" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry x="70" y="70" width="860" height="1100" as="geometry" />
+          <mxGeometry x="70" y="70" width="700" height="1100" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-2" value="Tahap" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry y="20" width="160" height="1080" as="geometry" />
@@ -21,6 +21,12 @@
         </mxCell>
         <mxCell id="eX0ZXQVr-SxHWwyLkpYd-28" value="4&lt;br&gt;Tahap Analisis" style="rounded=0;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="20" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eX0ZXQVr-SxHWwyLkpYd-22" value="" style="endArrow=none;dashed=1;html=1;" parent="77e6c97f196da883-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="780" as="sourcePoint" />
+            <mxPoint x="700" y="780" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="77e6c97f196da883-3" value="Kegiatan" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="160" y="20" width="260" height="1080" as="geometry" />
@@ -58,23 +64,23 @@
         <mxCell id="eX0ZXQVr-SxHWwyLkpYd-18" value="Analisis Data dilakukan menggunakan metode Partial Least Square Sequence Equation Modeling (PLSSEM)" style="rounded=0;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-3" vertex="1">
           <mxGeometry x="40" y="860" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="eX0ZXQVr-SxHWwyLkpYd-22" value="" style="endArrow=none;dashed=1;html=1;" parent="77e6c97f196da883-3" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-160" y="760" as="sourcePoint" />
-            <mxPoint x="540" y="760" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Aa4Hlagd6115ATjtPIB7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-3" source="eX0ZXQVr-SxHWwyLkpYd-33" target="eb2Sj1Z_npYzlBPQMQSi-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eX0ZXQVr-SxHWwyLkpYd-33" value="Uji Data Kuesioner:&lt;br&gt;1. Uji Validitas&lt;br&gt;2. Uji Reabilitas" style="rounded=0;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-3" vertex="1">
           <mxGeometry x="40" y="420" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="eb2Sj1Z_npYzlBPQMQSi-3" value="Pengujian Pengukuran Formatif dengan menghitung kolinearitas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="40" y="505" width="160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="eb2Sj1Z_npYzlBPQMQSi-9" value="Pengujian Model Struktural" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="40" y="590" width="160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="eb2Sj1Z_npYzlBPQMQSi-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="eX0ZXQVr-SxHWwyLkpYd-18" target="eb2Sj1Z_npYzlBPQMQSi-1">
+        <mxCell id="Aa4Hlagd6115ATjtPIB7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-3" source="eb2Sj1Z_npYzlBPQMQSi-3" target="eb2Sj1Z_npYzlBPQMQSi-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eb2Sj1Z_npYzlBPQMQSi-3" value="Pengujian Pengukuran Formatif dengan menghitung kolinearitas" style="rounded=0;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-3" vertex="1">
+          <mxGeometry x="40" y="550" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Aa4Hlagd6115ATjtPIB7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-3" source="eb2Sj1Z_npYzlBPQMQSi-9" target="eX0ZXQVr-SxHWwyLkpYd-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eb2Sj1Z_npYzlBPQMQSi-9" value="Pengujian Model Struktural" style="rounded=0;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-3" vertex="1">
+          <mxGeometry x="40" y="680" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-4" value="Hasil" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="420" y="20" width="280" height="1080" as="geometry" />
@@ -85,17 +91,17 @@
         <mxCell id="eX0ZXQVr-SxHWwyLkpYd-14" value="Lembar Kuesioner" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="77e6c97f196da883-4" vertex="1">
           <mxGeometry x="80" y="275" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eb2Sj1Z_npYzlBPQMQSi-1" value="Data Kuesioner sejumlah122, setelah dianalisis menggunakan PLSSEM menghasilkan data sejumlah 101 data" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="77e6c97f196da883-4">
-          <mxGeometry x="40" y="840" width="180" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="eb2Sj1Z_npYzlBPQMQSi-4" value="Seluruh Variabel Laten Reflektif Reliable" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="77e6c97f196da883-4">
+        <mxCell id="eb2Sj1Z_npYzlBPQMQSi-4" value="Seluruh Variabel Laten Reflektif Reliable" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="77e6c97f196da883-4" vertex="1">
           <mxGeometry x="60" y="425" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eb2Sj1Z_npYzlBPQMQSi-7" value="Indikator Formatif Akurat" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="77e6c97f196da883-4">
-          <mxGeometry x="50" y="510" width="160" height="60" as="geometry" />
+        <mxCell id="Aa4Hlagd6115ATjtPIB7-6" value="Tidak terindikasi&lt;br&gt;kolinearitas" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="77e6c97f196da883-4">
+          <mxGeometry x="50" y="555" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-5" value="Waktu" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="700" y="20" width="160" height="1080" as="geometry" />
+        <mxCell id="Aa4Hlagd6115ATjtPIB7-9" value="Hasil Diterima dan Tidak Diterima" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="77e6c97f196da883-4">
+          <mxGeometry x="30" y="685" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aa4Hlagd6115ATjtPIB7-12" value="seluruh variabel&lt;br/&gt;laten reflektif memiliki nilai cronbach’s alpha&lt;br/&gt;dan composite reliability di atas 0,7. Hal ini&lt;br/&gt;berarti seluruh variabel laten reflektif reliabel." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="77e6c97f196da883-4">
+          <mxGeometry x="30" y="845" width="185" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eX0ZXQVr-SxHWwyLkpYd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="77e6c97f196da883-1" source="eX0ZXQVr-SxHWwyLkpYd-6" target="eX0ZXQVr-SxHWwyLkpYd-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -103,10 +109,16 @@
         <mxCell id="eX0ZXQVr-SxHWwyLkpYd-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="77e6c97f196da883-1" source="eX0ZXQVr-SxHWwyLkpYd-12" target="eX0ZXQVr-SxHWwyLkpYd-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eb2Sj1Z_npYzlBPQMQSi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="eX0ZXQVr-SxHWwyLkpYd-33" target="eb2Sj1Z_npYzlBPQMQSi-4">
+        <mxCell id="eb2Sj1Z_npYzlBPQMQSi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="77e6c97f196da883-1" source="eX0ZXQVr-SxHWwyLkpYd-33" target="eb2Sj1Z_npYzlBPQMQSi-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eb2Sj1Z_npYzlBPQMQSi-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="eb2Sj1Z_npYzlBPQMQSi-3" target="eb2Sj1Z_npYzlBPQMQSi-7">
+        <mxCell id="Aa4Hlagd6115ATjtPIB7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="eb2Sj1Z_npYzlBPQMQSi-3" target="Aa4Hlagd6115ATjtPIB7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aa4Hlagd6115ATjtPIB7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="77e6c97f196da883-1" source="eb2Sj1Z_npYzlBPQMQSi-9" target="Aa4Hlagd6115ATjtPIB7-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aa4Hlagd6115ATjtPIB7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="77e6c97f196da883-1" source="eX0ZXQVr-SxHWwyLkpYd-18" target="Aa4Hlagd6115ATjtPIB7-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eX0ZXQVr-SxHWwyLkpYd-10" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
